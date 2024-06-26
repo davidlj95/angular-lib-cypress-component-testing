@@ -16,6 +16,9 @@
     "experimentalDecorators": true,
     "moduleResolution": "bundler",
     "paths": {
+      "another-sample-lib": [
+        "./dist/another-sample-lib"
+      ],
       "sample-lib": [
         "./dist/sample-lib"
       ]
